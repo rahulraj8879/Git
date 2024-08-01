@@ -332,7 +332,7 @@ GameObject:
   - component: {fileID: 1390861986}
   - component: {fileID: 1390861987}
   m_Layer: 0
-  m_Name: grid
+  m_Name: Grid Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -373,9 +373,9 @@ MonoBehaviour:
   - prefab: {fileID: 2545982540410667376, guid: b3e9283a00ec0cc459570ea9ae33aeb1, type: 3}
     length: 0
   nodesSpawnParentObj: {fileID: 493765701}
-  numberOfGridsToGenerate: 6
-  gridWidth: 5
-  gridHeight: 5
+  numberOfGridsToGenerate: 4
+  gridWidth: 4
+  gridHeight: 4
   spacing: 1
 --- !u!1 &1630226649
 GameObject:

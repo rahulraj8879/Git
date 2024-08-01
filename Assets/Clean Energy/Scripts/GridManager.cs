@@ -13,8 +13,8 @@ public class GridManager : MonoBehaviour
     public List<PrefabData> prefabs;
     public Transform nodesSpawnParentObj;
     public int numberOfGridsToGenerate = 1;
-    public int gridWidth = 5;
-    public int gridHeight = 5;
+    public int gridWidth = 4;
+    public int gridHeight = 4;
     public float spacing = 1f;
 
     private GameObject[,] nodes;
